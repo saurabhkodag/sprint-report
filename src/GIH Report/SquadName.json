@@ -1,0 +1,63 @@
+[
+  {
+    "Name": "WMS Individual Investor",
+    "ExcelName": "Newsletters"
+  },
+  {
+    "Name": "WP Seagull",
+    "ExcelName": "Seagull"
+  },
+  {
+    "Name": "WP Raptor",
+    "ExcelName": "Raptors"
+  },
+  {
+    "Name": "WP Kiwi",
+    "ExcelName": "Kiwi"
+
+  },
+  {
+    "Name": "Tech - Falcons Squad",
+    "ExcelName": "Falcons"
+  },
+  {
+    "Name": "WP Harrier",
+    "ExcelName": "Harrier"
+  },
+  {
+    "Name": "Datafeed Scrum",
+    "ExcelName": "AdviserLogic Datafeeds"
+  },
+  {
+    "Name": "Cashflow Scrum",
+    "ExcelName": "Cashflow"
+  },
+  {
+    "Name": "WP Osprey",
+    "ExcelName": "Osprey"
+  },
+  {
+    "Name": "WP Raven",
+    "ExcelName": "Raven"
+  },
+  {
+    "Name": "CS Board",
+    "ExcelName": "Client Web Portal"
+  },
+  {
+    "Name": "Fact Finder",
+    "ExcelName": "Fact Find"
+  },
+  {
+    "Name": "DD Board New",
+    "ExcelName": "Digital Designer"
+  },
+  {
+    "Name": "DA Board New",
+    "ExcelName": "Digital Advice"
+  },
+  {
+    "Name": "WP Maverick",
+    "ExcelName": "Maverick"
+  }
+]

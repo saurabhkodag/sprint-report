@@ -1,0 +1,197 @@
+[
+  {
+    "SheetName": "Story_Points",
+    "Column": [
+      {
+        "Name": "Group Name",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Group Head Name",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Squad Name",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Sprint No.",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Forecast Capacity",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Planned Story Points (G)",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Completed Story Points",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Predictability",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Utilization",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Team Morale",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Month",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Quarter",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Year",
+        "DataType": "String",
+        "DataProperty": ""
+      }
+    ]
+  },
+  {
+    "SheetName": "Squad_Level",
+    "Column": [
+      {
+        "Name": "Group Name",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Group Head Name",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Squad Name",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Production Defects in Month - High",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Production Defects in Month - Medium",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Production Defects in Month - Low",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Production Defects in Month",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Production Release Count",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Comments",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Month",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Quarter",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Year",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Research",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Research %",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Client Customization",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Client Customization %",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "New Product Development",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "New Product Development %",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Replatform",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Replatform %",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Maintainenace",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Maintainenace %",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Total Completed Story Points",
+        "DataType": "String",
+        "DataProperty": ""
+      },
+      {
+        "Name": "Comments",
+        "DataType": "String",
+        "DataProperty": ""
+      }
+    ]
+  }
+]
